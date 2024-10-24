@@ -4,3 +4,6 @@ The "Synthesizing Visual Realities" project represents a significant advancement
 
 
 ![input text](https://github.com/user-attachments/assets/d330ac3c-2eac-427f-8b63-14fee5760ef8)
+
+![output image ](https://github.com/user-attachments/assets/38f26942-9b16-4be1-af6e-0358e83430e8)
+
